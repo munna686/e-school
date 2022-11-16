@@ -2,6 +2,30 @@
     margin-top: 60px;
     margin-bottom: 15px;
 }
+
+.nva .b{
+    background-color: #f8f9fa;
+    border-radius: 20px;
+    margin-right: 5px;
+    transition-duration: 0.3s;
+   
+}
+.nva .b:hover{
+    background-color: #21B573;
+    color: #f8f9fa;
+}
+.a{
+    background-color: #f8f9fa;
+    border-radius: 20px;
+    margin-right: 5px;
+    transition-duration: 0.3s;
+     
+}
+.a:hover{
+    background-color: rgb(0, 110, 255);
+    color: #f8f9fa;
+}
+
 .lg{
     height: 25%;
     width: 25%;
@@ -14,7 +38,7 @@
     margin-left: -50px;
 }
 .high{
-    width: 92px;
+    width: 85px;
     height:40px;
     background-color: #21B573;
     border-radius: 33px;
@@ -30,7 +54,7 @@
     width: 100%;
 }
 .ready{
-    color:#FD511A ;
+    color:rgb(0, 110, 255);
     font-size: 18px;
     margin-bottom: 40px;
 }
@@ -97,6 +121,7 @@
 }
 .card-footer{
     border: none;
+    background-color: #f8f9fa;
 }
 .card{
     border: none;
@@ -104,7 +129,41 @@
     border: 0.5px solid #21B573;
     border-radius: 20px;
     transition-duration: 1s;
+    
 }
 .card:hover {
     box-shadow: 5px 5px 20px #21B573;
+}
+
+.footb{
+    background-color: #282531;
+    height: 500px;
+    color: #fff;
+}
+.lastin{
+    width: 350px;
+    text-align: center;
+}
+.course{
+    margin-left: 420px;
+    margin-top: -61px;
+}
+.terms{
+    margin-left: 700px;
+    margin-top: -175px;
+}
+.use{
+    margin-left: 950px;
+    margin-top: -175px;
+}
+.foot{
+    background-color: #282531;
+    color: rgb(209, 209, 209);
+    height: 400px;
+    padding-top: 35px;
+    border-radius: 5px;
+    margin-top: 100px;
+}
+body{
+    background-color: #f8f9fa;
 }
