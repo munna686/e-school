@@ -1,0 +1,110 @@
+.container{
+    margin-top: 60px;
+    margin-bottom: 15px;
+}
+.lg{
+    height: 25%;
+    width: 25%;
+   
+}
+.ban{
+    height: 100%;
+    width: 100%;
+    margin-top: 20px;
+    margin-left: -50px;
+}
+.high{
+    width: 92px;
+    height:40px;
+    background-color: #21B573;
+    border-radius: 33px;
+    
+}
+.gig{
+    color: #fff;
+}
+.nav-item a{
+    color: #000;
+}
+.learn{
+    width: 100%;
+}
+.ready{
+    color:#FD511A ;
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+.any{
+    margin-top: 20px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+.any span{
+    color: #21B573;
+}
+.des{
+    color: rgb(107, 107, 107);
+    margin-bottom: 20px;
+}
+.get-btn{
+    width: 153px;
+    height: 43px;
+    background-color: #21B573;
+    border: none;
+    border-radius: 25px;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 20px;
+    transition-duration: 1s;
+}
+.get-btn:hover{
+    box-shadow: 5px 5px 20px rgb(71, 71, 71);
+}
+.feed img{
+    height: 80px;
+    width: 80px;
+    margin-bottom: 30px;
+}
+.feed{
+    text-align: center;
+    
+
+}
+.feed p{
+    color: gray;
+}
+.feed div{
+    
+    padding: 20px 20px;
+    transition-duration: 1s;
+    border-radius: 35px;
+}
+.feed div:hover{
+    box-shadow: 5px 5px 30px rgb(71, 71, 71);
+ 
+}
+.on{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(36, 36, 36);
+    margin-top: 30px;
+}
+.card-footer img{
+    width: 7%;
+    height: 7%;
+    margin-left: -15px;
+    margin-right: 5px;
+}
+.card-footer{
+    border: none;
+}
+.card{
+    border: none;
+    padding: 10px;
+    border: 0.5px solid #21B573;
+    border-radius: 20px;
+    transition-duration: 1s;
+}
+.card:hover {
+    box-shadow: 5px 5px 20px #21B573;
+}
