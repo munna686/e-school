@@ -101,7 +101,7 @@
     
     padding: 20px 20px;
     transition-duration: 1s;
-    border-radius: 35px;
+    border-radius: 20px;
 }
 .feed div:hover{
     box-shadow: 5px 5px 30px rgb(71, 71, 71);
